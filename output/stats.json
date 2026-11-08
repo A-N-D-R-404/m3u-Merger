@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T16:02:28.924139+03:00",
+  "generated": "2026-11-09T00:52:34.137301+03:00",
   "input_dir": "./playlists",
   "output_file": "./output/merged.m3u",
   "total_files": 4,
@@ -56,7 +56,7 @@
     "playlists/zabava_ef.m3u": 20372,
     "playlists/loganet_tv.m3u": 83797,
     "playlists/bugsfreeweb.m3u": 326264,
-    "playlists/dimonovich_tv.m3u": 651328
+    "playlists/dimonovich_tv.m3u": 651334
   },
-  "output_size": 920118
+  "output_size": 920121
 }
