@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-11T05:36:01.375180",
+  "timestamp": "2026-11-11T13:53:51.428923",
   "total": 8,
-  "success": 4,
+  "success": 5,
   "results": {
     "dimonovich_tv.m3u": {
       "url": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV",
       "success": true,
       "info": {
-        "size": 604461,
+        "size": 608638,
         "status": "success"
       }
     },
@@ -61,10 +61,10 @@
     },
     "iptv_scraper.m3u": {
       "url": "https://gitverse.ru/api/repos/iptvm3u/iptv-scraper/raw/branch/master/iptv%2Fall_in_one.m3u",
-      "success": false,
+      "success": true,
       "info": {
-        "status": "error",
-        "error": "429 Client Error: Too Many Requests for url: https://gitverse.ru/api/repos/iptvm3u/iptv-scraper/raw/branch/master/iptv%2Fall_in_one.m3u"
+        "size": 100723,
+        "status": "success"
       }
     }
   }
