@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-19T15:30:56.765789",
+  "timestamp": "2026-11-20T00:28:42.838498",
   "total": 8,
-  "success": 5,
+  "success": 4,
   "results": {
     "dimonovich_tv.m3u": {
       "url": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV",
       "success": true,
       "info": {
-        "size": 487915,
+        "size": 473644,
         "status": "success"
       }
     },
@@ -16,7 +16,7 @@
       "success": false,
       "info": {
         "status": "error",
-        "error": "404 Client Error: Not Found for url: https://iptvshams.ru/ShamsTV.m3u8"
+        "error": "HTTPConnectionPool(host='iptvshams.ru', port=80): Max retries exceeded with url: /ShamsTV.m3u8 (Caused by NameResolutionError(\"HTTPConnection(host='iptvshams.ru', port=80): Failed to resolve 'iptvshams.ru' ([Errno -3] Temporary failure in name resolution)\"))"
       }
     },
     "iptv_ru.m3u": {
@@ -47,7 +47,7 @@
       "url": "https://loganettv.github.io/playlists/all.m3u",
       "success": true,
       "info": {
-        "size": 76766,
+        "size": 65677,
         "status": "success"
       }
     },
@@ -61,10 +61,10 @@
     },
     "iptv_scraper.m3u": {
       "url": "https://gitverse.ru/api/repos/iptvm3u/iptv-scraper/raw/branch/master/iptv%2Fall_in_one.m3u",
-      "success": true,
+      "success": false,
       "info": {
-        "size": 100723,
-        "status": "success"
+        "status": "error",
+        "error": "429 Client Error: Too Many Requests for url: https://gitverse.ru/api/repos/iptvm3u/iptv-scraper/raw/branch/master/iptv%2Fall_in_one.m3u"
       }
     }
   }
