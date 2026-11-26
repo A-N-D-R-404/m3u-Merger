@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-26T10:43:52.453424+03:00",
+  "generated": "2026-11-27T00:13:47.057584+03:00",
   "input_dir": "./playlists",
   "output_file": "./output/merged.m3u",
   "total_files": 4,
-  "total_channels": 5162,
-  "unique_channels": 4520,
-  "duplicates_removed": 642,
+  "total_channels": 5137,
+  "unique_channels": 4516,
+  "duplicates_removed": 621,
   "excluded_channels": 785,
   "excluded_groups": [
     "🔺 INFO 🔺",
@@ -45,18 +45,18 @@
     "Казахстан",
     "Республика Крым"
   ],
-  "archive_channels": 268,
+  "archive_channels": 318,
   "sources": {
     "loganet_tv.m3u": 470,
+    "dimonovich_tv.m3u": 2895,
     "bugsfreeweb.m3u": 2445,
-    "dimonovich_tv.m3u": 2920,
     "zabava_ef.m3u": 112
   },
   "file_sizes": {
     "playlists/loganet_tv.m3u": 71652,
+    "playlists/dimonovich_tv.m3u": 514390,
     "playlists/bugsfreeweb.m3u": 330045,
-    "playlists/dimonovich_tv.m3u": 517081,
     "playlists/zabava_ef.m3u": 20372
   },
-  "output_size": 798880
+  "output_size": 821144
 }
